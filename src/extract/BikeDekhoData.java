@@ -38,36 +38,39 @@ public class BikeDekhoData {
 				BufferedWriter writer = new BufferedWriter(new FileWriter(bikesDataFilePath))
 			)
 		{
-			writer.write("Brand,Model,Type,Price_Range,Image_Url,cc_value");
+			writer.write("Brand,Model,Type,Price_Range,Image_Url,cc_value\n");
 			String line;
 			
 			while( (line = reader.readLine()) != null ) 
 			{
 				
-				String jsonResponse = connect.getJsonResponseOfBikeDekho( String.format(webUrl, line) );
+				String apiUrl = String.format(webUrl, line.split("/")[1]);
+				logger.info("Fetching URL: " + apiUrl);
+				
+				String jsonResponse = connect.getJsonResponseOfBikeDekho(apiUrl);
 				if (jsonResponse == null) {
 					logger.warning("NO JSON Response received from the server: " + jsonResponse);
-					return;
+					continue;
 				}
 				
 				JSONObject responseJsonObject = new JSONObject(jsonResponse);
 				
-				JSONObject data = responseJsonObject.getJSONObject("data");
+				JSONObject data = responseJsonObject.optJSONObject("data");
 				if (data == null) {
 				    logger.warning("'data' object not found in JSON");
-				    return;
+				    continue;
 				}
 				
-				JSONObject primaryData = data.getJSONObject("primaryData");
+				JSONObject primaryData = data.optJSONObject("primaryData");
 				if (primaryData == null) {
 					logger.info("PrimaryData JSONObject is null");
-					return;
+					continue;
 				}
 				
 				JSONArray items = primaryData.getJSONArray("items");
 				if (items == null || items.length() == 0) {
 					logger.info("No item is present in the items array in json response and total_item_count: " + items.length());
-					return;
+					continue;
 				}
 				
 				for(int i = 0; i < items.length(); i++) 
@@ -83,6 +86,8 @@ public class BikeDekhoData {
 					
 					writer.write(brandName + "," + modelName + "," + type + "," + priceRange + "," + image + "," + engineCcValue + "\n");
 				}
+				
+				Thread.sleep(3000);
 			}
 			
 		} catch (Exception e) {
