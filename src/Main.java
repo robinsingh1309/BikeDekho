@@ -1,8 +1,10 @@
 import java.io.IOException;
 
-import extract.BikeDekhoData;
+import extract.BikeDekhoBikeData;
+import extract.BikeDekhoScooterData;
 import extract.ScooterBrand;
 import extract.TwoWheelerBrand;
+import extract.VehicleData;
 import service.BDEnum;
 
 public class Main {
@@ -11,10 +13,10 @@ public class Main {
 
 		
 		// for Scooters
-		final String scooterFilePath = "/home/robin/eclipse-workspace/BikeDekho/src/csv/scootersBrandAPIEndpoint.csv";
+		final String scooterBrandApiEndPoint = "/home/robin/eclipse-workspace/BikeDekho/src/csv/scootersBrandAPIEndpoint.csv";
 		final String scootersBrandURL = BDEnum.BIKE_DEKHO_SCOOTERS_BRAND_URL.getValue();
 
-		final TwoWheelerBrand twScooterBrand = new ScooterBrand(scooterFilePath, scootersBrandURL);
+		final TwoWheelerBrand twScooterBrand = new ScooterBrand(scooterBrandApiEndPoint, scootersBrandURL);
 		twScooterBrand.getBrands();
 
 		
@@ -26,14 +28,25 @@ public class Main {
 		twBikeBrand.getBrands();
 		
 		
-		// write the data of Bike
+		// URL to connect to BikeDekho web-site
+		final String url = BDEnum.BIKE_DEKHO_URL.getValue();
+		
+		
+		// write data of Bikes
 		final String writeBikesData = "/home/robin/eclipse-workspace/BikeDekho/src/csv/bikesData.csv";
 		
-		final BikeDekhoData bikeData = new BikeDekhoData();
-		bikeData.getBikeData(bikesBrandApiEndPoint, writeBikesData);
+		final VehicleData bikeVehicleData = new BikeDekhoBikeData(url);
+		bikeVehicleData.getData(bikesBrandApiEndPoint, writeBikesData);
 		
 		
-		System.out.println("Demo for BikeDekho");
+		// write data of Scooters
+		final String writeScootersData = "/home/robin/eclipse-workspace/BikeDekho/src/csv/scootersData.csv";
+		
+		final VehicleData scooterVehicleData = new BikeDekhoScooterData(url);
+		scooterVehicleData.getData(scooterBrandApiEndPoint, writeScootersData);
+		
+		
+		System.out.println("--------------------------------------------------------------------------------------------------------");
 	}
 
 }

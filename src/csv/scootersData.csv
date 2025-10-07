@@ -1,0 +1,382 @@
+Brand,Model,Type,Price_Range,Image_Url,cc_value
+Honda,Honda Activa 6G,Petrol,74,369 - 87,693,https://cdn.bikedekho.com/processedimages/honda/activa-6g/source/activa-6g68a6fb7b20bd3.jpg,109
+Honda,Honda Activa e,Electric,1.17 - 1.52 Lakh,https://cdn.bikedekho.com/processedimages/honda/activa-electric/source/activa-electric68ce3ab3c7624.jpg,6000
+Honda,Honda Activa 125,Petrol,88,339 - 91,983,https://cdn.bikedekho.com/processedimages/honda/2025-activa-125/source/2025-activa-12568ce3a43579a4.jpg,123
+Honda,Honda Dio,Petrol,68,846 - 79,723,https://cdn.bikedekho.com/processedimages/honda/2025-dio/source/2025-dio68a6fc727cfae.jpg,109
+Honda,Honda Dio 125,Petrol,84,620 - 89,570,https://cdn.bikedekho.com/processedimages/honda/dio-125/source/dio-12568ce48fa5ac54.jpg,123
+Honda,Honda X-ADV,Petrol,12.79 Lakh,https://cdn.bikedekho.com/processedimages/honda/x-adv-750/source/x-adv-75068ce4d44465a1.jpg,745
+Honda,Honda QC1,Electric,90,022,https://cdn.bikedekho.com/processedimages/honda/qc1/source/qc168ce4b40e01db.jpg,1800
+TVS,TVS Jupiter,Petrol,72,400 - 85,400,https://cdn.bikedekho.com/processedimages/tvs/jupiter/source/jupiter68c8080e2422c.jpg,113
+TVS,TVS iQube,Electric,94,434 - 1.31 Lakh,https://cdn.bikedekho.com/processedimages/tvs/iqube-electric/source/iqube-electric68a806fdb536c.jpg,4400
+TVS,TVS NTORQ 125,Petrol,80,900 - 99,800,https://cdn.bikedekho.com/processedimages/tvs/ntorq-125/source/ntorq-12568a8080b61608.jpg,124
+TVS,TVS Jupiter 125,Petrol,75,600 - 86,400,https://cdn.bikedekho.com/processedimages/tvs/jupiter-125/source/jupiter-12568d3dc5f864c7.jpg,124
+TVS,TVS XL100,Petrol,43,900 - 59,800,https://cdn.bikedekho.com/processedimages/tvs/tvs-xl100/source/tvs-xl10068cd1d42ef373.jpg,99
+TVS,TVS NTorq 150,Petrol,1.09 - 1.18 Lakh,https://cdn.bikedekho.com/processedimages/tvs/ntorq-150/source/ntorq-15068b964592ed57.jpg,149
+TVS,TVS Orbiter,Electric,1.05 Lakh,https://cdn.bikedekho.com/processedimages/tvs/tvs-electric-scooter/source/tvs-electric-scooter68ce618bd4daf.jpg,2500
+TVS,TVS iQube ST,Electric,1.28 - 1.59 Lakh,https://cdn.bikedekho.com/processedimages/tvs/iqube-st/source/iqube-st68afe25db6df4.jpg,4400
+TVS,TVS Scooty Zest,Petrol,70,600 - 72,200,https://cdn.bikedekho.com/processedimages/tvs/tvs-scooty-zest/source/tvs-scooty-zest68d3de4860aff.jpg,109
+TVS,TVS iQube S,Electric,1.18 - 1.40 Lakh,https://cdn.bikedekho.com/processedimages/tvs/iqube-s/source/iqube-s68d3dc0be19ef.jpg,4400
+TVS,TVS X,Electric,2.64 Lakh,https://cdn.bikedekho.com/processedimages/tvs/creon/source/creon68d3deaa02c4e.jpg,7000
+Yamaha,Yamaha RayZR 125 Fi Hybrid,Petrol,73,430 - 85,974,https://cdn.bikedekho.com/processedimages/yamaha/ray-zr-125/source/ray-zr-12568a8198d15c01.jpg,125
+Yamaha,Yamaha Aerox 155,Petrol,1.38 - 1.41 Lakh,https://cdn.bikedekho.com/processedimages/yamaha/aerox-155/source/aerox-15568a817d4b5c3a.jpg,155
+Yamaha,Yamaha Fascino 125 Fi Hybrid,Petrol,74,044 - 94,254,https://cdn.bikedekho.com/processedimages/yamaha/fascino-125/source/fascino-125689dc6a5b1b6a.jpg,125
+Hero,Hero Destini 125,Petrol,75,838 - 84,919,https://cdn.bikedekho.com/processedimages/hero/destini/source/destini689d7a8d09dc8.jpg,124
+Hero,Hero Pleasure Plus,Petrol,69,766 - 75,712,https://cdn.bikedekho.com/processedimages/hero/pleasure-2019/source/pleasure-201968a6fa8527c42.jpg,110
+Hero,Hero Xoom 110,Petrol,72,351 - 77,836,https://cdn.bikedekho.com/processedimages/hero/xoom-110/source/xoom-11068d22f1713237.jpg,110
+Hero,Hero Xoom 125,Petrol,80,494 - 86,025,https://cdn.bikedekho.com/processedimages/hero/xoom-125/source/xoom-12568d22f980e0a6.jpg,124
+Hero,Hero Xoom 160,Petrol,1.37 Lakh,https://cdn.bikedekho.com/processedimages/hero/xoom-160/source/xoom-16068d2301de86e8.jpg,156
+Hero,Hero Destini Prime,Petrol,69,430,https://cdn.bikedekho.com/processedimages/hero/destini-prime/source/destini-prime68d22b4dd8ccd.jpg,124
+Hero,Hero Destini 110,Petrol,72,000 - 79,000,https://cdn.bikedekho.com/processedimages/hero/destini-110/source/destini-11068d2572ba4272.jpg,110
+Bajaj,Bajaj Chetak,Electric,1.07 - 1.40 Lakh,https://cdn.bikedekho.com/processedimages/bajaj/2022-chetak/source/2022-chetak68a6c402cd28b.jpg,0
+BMW,BMW C 400 GT,Petrol,10.83 Lakh,https://cdn.bikedekho.com/processedimages/bmw/c-400-gt/source/c-400-gt67caccf37e12a.jpg,350
+Suzuki,Suzuki Access 125,Petrol,77,284 - 93,877,https://cdn.bikedekho.com/processedimages/suzuki/2025-access-125/source/2025-access-12568a80430441e1.jpg,124
+Suzuki,Suzuki Burgman Street,Petrol,88,376 - 1.08 Lakh,https://cdn.bikedekho.com/processedimages/suzuki/burgman-street/source/burgman-street68a80481cc4b8.jpg,124
+Suzuki,Suzuki Avenis,Petrol,83,793 - 86,177,https://cdn.bikedekho.com/processedimages/suzuki/sporty-scooter/source/sporty-scooter68d4d1d556731.jpg,124
+Ather,Ather 450X,Electric,1.50 - 1.80 Lakh,https://cdn.bikedekho.com/processedimages/ather-energy/2025-450x/source/2025-450x68a6c30d69e5f.jpg,6400
+Ather,Ather Rizta,Electric,1.15 - 1.56 Lakh,https://cdn.bikedekho.com/processedimages/ather-energy/family-scooter/source/family-scooter661131531323a.jpg,4300
+Ather,Ather 450S,Electric,1.23 - 1.48 Lakh,https://cdn.bikedekho.com/processedimages/ather-energy/2025-450s/source/2025-450s677cb40877ef4.jpg,5400
+Ather,Ather 450 Apex,Electric,1.85 Lakh,https://cdn.bikedekho.com/processedimages/ather-energy/2025-450-apex/source/2025-450-apex677cb151dcc48.jpg,7000
+Aprilia,Aprilia SR 125,Petrol,1.13 - 1.23 Lakh,https://cdn.bikedekho.com/processedimages/aprilia/sr-125/source/sr-12568d68b535f8af.jpg,124
+Aprilia,Aprilia SR 160,Petrol,1.21 - 1.29 Lakh,https://cdn.bikedekho.com/processedimages/aprilia/sr-160-bs6/source/sr-160-bs668d68c94ccf40.jpg,160
+Aprilia,Aprilia SR 175 hp.e,Petrol,1.19 - 1.23 Lakh,https://cdn.bikedekho.com/processedimages/aprilia/sr-175/source/sr-17568c027d320a63.jpg,174
+Aprilia,Aprilia SXR 160,Petrol,1.32 Lakh,https://cdn.bikedekho.com/processedimages/aprilia/sxr160/source/sxr16068d68e62b6f56.jpg,160
+Aprilia,Aprilia SR 125 hp.e,Petrol,1.11 Lakh,https://cdn.bikedekho.com/processedimages/aprilia/sr-125-hp-e/source/sr-125-hp-e68d68baa2f196.jpg,124
+Aprilia,Aprilia SXR 125,Petrol,1.22 - 1.33 Lakh,https://cdn.bikedekho.com/processedimages/aprilia/sxr-125/source/sxr-12568d68db107c93.jpg,125
+Aprilia,Aprilia SR Storm,Petrol,1.07 Lakh,https://cdn.bikedekho.com/processedimages/aprilia/storm-125/source/storm-12568d68cf1090d3.jpg,124
+Ola Electric,Ola S1 Pro,Electric,1.35 - 1.60 Lakh,https://cdn.bikedekho.com/processedimages/ola-electric/2025-s1-pro/source/2025-s1-pro68da2dd1c2f71.jpg,11000
+Ola Electric,Ola S1 X,Electric,94,999 - 1.25 Lakh,https://cdn.bikedekho.com/processedimages/ola-electric/2025-s1x/source/2025-s1x68da2f73768ac.jpg,7000
+Ola Electric,Ola S1 Z,Electric,59,999 - 64,999,https://cdn.bikedekho.com/processedimages/ola-electric/s1-z/source/s1-z68da3187477c1.jpg,3000
+Ola Electric,Ola S1 Pro Sport,Electric,1.50 - 1.65 Lakh,https://cdn.bikedekho.com/processedimages/ola-electric/s1-pro-sport/source/s1-pro-sport68da2efea3995.jpg,5500
+Ola Electric,Ola S1 X Plus,Electric,1.30 Lakh,https://cdn.bikedekho.com/processedimages/ola-electric/s1-x-plus/source/s1-x-plus679cdfff85998.jpg,11000
+Ola Electric,Ola S1 Air,Electric,89,999,https://cdn.bikedekho.com/upload/modellogo/64d5c9de91a03.jpg,2700
+Ola Electric,Ola S1 Pro Plus,Electric,1.65 - 1.75 Lakh,https://cdn.bikedekho.com/processedimages/ola-electric/2025-s1-air/source/2025-s1-air68da2e25d8f96.jpg,13000
+Ola Electric,Ola Gig,Electric,39,999 - 49,999,https://cdn.bikedekho.com/processedimages/ola-electric/gig/source/gig6745b53b29587.jpg,1500
+Keeway,Keeway Vieste 300 ,Petrol,3.02 Lakh,https://cdn.bikedekho.com/processedimages/keeway/gt270/640X309/gt27062ea24776a042.jpg,278
+Keeway,Keeway Sixties 300i,Petrol,3.07 Lakh,https://cdn.bikedekho.com/processedimages/keeway/sixties-300i/640X309/sixties-300i62ce8bf5634ee.jpg,278
+Vida,Vida VX2,Electric,44,990 - 82,790,https://cdn.bikedekho.com/processedimages/vida/vx2/source/vx268d1139c16533.jpg,0
+Vida,Vida V2,Electric,74,000 - 1.20 Lakh,https://cdn.bikedekho.com/processedimages/vida/vida-v2/source/vida-v268a8171b80454.jpg,6000
+Hero Electric,Hero Electric Optima,Electric,83,300 - 1.04 Lakh,https://cdn.bikedekho.com/processedimages/heroelectric/heroelectric-optima/source/heroelectric-optima68a6c60d19fcb.jpg,1200
+Hero Electric,Hero Electric Flash,Electric,59,640,https://cdn.bikedekho.com/upload/modellogo/64d236e16b1db.jpg,250
+Hero Electric,Hero Electric Atria,Electric,77,690,https://cdn.bikedekho.com/processedimages/hero-electric/atria/640X309/atria60ee6fd261c94.jpg,250
+Hero Electric,Hero Electric Photon,Electric,1.11 Lakh,https://cdn.bikedekho.com/processedimages/heroelectric/hero-electric-photon/640X309/hero-electric-photon5ebbba2dc5f67.jpg,1800
+Vespa,Vespa ZX,Petrol,1.07 Lakh,https://cdn.bikedekho.com/processedimages/vespa/zx-125/source/zx-12567ee4170043c8.jpg,124
+Vespa,Vespa 125,Petrol,1.24 - 1.79 Lakh,https://cdn.bikedekho.com/processedimages/vespa/vespa-125/source/vespa-12567b848c7c2700.jpg,124
+Vespa,Vespa 150,Petrol,1.38 - 1.91 Lakh,https://cdn.bikedekho.com/processedimages/vespa/150/source/15067b84ff11ca37.jpg,149
+Vespa,Vespa S,Petrol,1.27 - 1.95 Lakh,https://cdn.bikedekho.com/processedimages/vespa/vespa-s/source/vespa-s67ac419c76dd5.jpg,149
+Okinawa,Okinawa PraisePro,Electric,84,443,https://cdn.bikedekho.com/processedimages/okinawa/praisepro/640X309/praisepro604c5d82dc379.jpg,1000
+Okinawa,Okinawa Dual 100,Electric,1.19 Lakh,https://cdn.bikedekho.com/processedimages/okinawa/dual/640X309/dual600e89985c2ba.jpg,2500
+Okinawa,Okinawa Lite,Electric,69,093,https://cdn.bikedekho.com/processedimages/okinawa/lite/640X309/lite6315ce5ff0144.jpg,250
+Okinawa,Okinawa Ridge,Electric,70,096 - 1.15 Lakh,https://cdn.bikedekho.com/processedimages/okinawa/ridge/640X309/ridge63689e4a210fa.jpg,800
+Okinawa,Okinawa Okhi90,Electric,1.50 Lakh,https://cdn.bikedekho.com/upload/modellogo/64b502eea4ee2.jpg,3800
+Okinawa,Okinawa R30,Electric,61,998,https://cdn.bikedekho.com/processedimages/okinawa/r30/640X309/r305f437be56f88f.jpg,250
+Okinawa,Okinawa iPraise+,Electric,1.23 Lakh,https://cdn.bikedekho.com/processedimages/okinawa/i-praise/640X309/i-praise6315ceeec7774.jpg,2700
+PURE EV,PURE EV Epluto 7G Max,Electric,1.15 Lakh,https://cdn.bikedekho.com/processedimages/pure-ev/epluto-7g-max/source/epluto-7g-max6520dc8a8aed1.jpg,2200
+PURE EV,PURE EV ETrance Neo,Electric,74,999 - 98,999,https://cdn.bikedekho.com/processedimages/pure-ev/etrance-neo/source/etrance-neo660a86873bb55.jpg,1200
+PURE EV,PURE EV Epluto 7G,Electric,78,999 - 94,999,https://cdn.bikedekho.com/processedimages/pure-ev/gepluto-7g/source/gepluto-7g660a88c7108c4.jpg,1200
+Avon,Avon E Scoot 504,Electric,66,006,https://cdn.bikedekho.com/processedimages/avon/avon-e-scoot/source/avon-e-scoot664dbee9827a9.jpg,250
+Avon,Avon E Mate 306,Electric,1 Lakh,https://cdn.bikedekho.com/processedimages/avon/avon-e-mate/source/avon-e-mate664dbfe057a31.jpg,188
+Avon,Avon E-Zap Dx,Electric,94,799,https://cdn.bikedekho.com/processedimages/avon/e-zap-dx/source/e-zap-dx6874feef43cea.jpg,250
+Avon,Avon E-Trust 900,Electric,2.11 Lakh,https://cdn.bikedekho.com/processedimages/avon/e-trust-900/source/e-trust-9006875e4f6b4da4.jpg,1200
+Avon,Avon E-Star Dx,Electric,99,689,https://cdn.bikedekho.com/processedimages/avon/e-star-dx/source/e-star-dx6864fb02dded9.jpg,0
+Komaki,Komaki X One,Electric,36,999 - 59,999,https://cdn.bikedekho.com/processedimages/komaki/xone/source/xone67067b2cdd342.jpg,0
+Komaki,Komaki XR7,Electric,89,999,https://cdn.bikedekho.com/processedimages/komaki/xr7/source/xr7689af894327ed.jpg,3000
+Komaki,Komaki XGT CAT 2.0,Electric,74,999 - 1.14 Lakh,https://cdn.bikedekho.com/upload/modellogo/649e7d9991e17.jpg,0
+Komaki,Komaki XR1,Electric,29,999,https://cdn.bikedekho.com/processedimages/komaki/xr1/source/xr167cfbbcb52b00.jpg,0
+Komaki,Komaki XGT KM,Electric,56,890,https://cdn.bikedekho.com/upload/modellogo/649eaa182c958.jpg,0
+Komaki,Komaki Flora,Electric,61,000,https://cdn.bikedekho.com/processedimages/komaki/flora/source/flora65e84ddd28999.jpg,3000
+Komaki,Komaki SE,Electric,59,999 - 1.10 Lakh,https://cdn.bikedekho.com/upload/modellogo/649ea62b3f138.jpg,0
+Komaki,Komaki X3,Electric,52,999,https://cdn.bikedekho.com/processedimages/komaki/x-3/source/x-367cff95567a59.jpg,3000
+Komaki,Komaki Venice,Electric,1.04 - 1.68 Lakh,https://cdn.bikedekho.com/upload/modellogo/649e9f1c7c578.jpg,3000
+Komaki,Komaki XGT X5,Electric,1 Lakh,https://cdn.bikedekho.com/upload/modellogo/649ea3874140e.jpg,0
+Komaki,Komaki LY,Electric,63,999 - 84,999,https://cdn.bikedekho.com/upload/modellogo/649e7b9ec399a.jpg,3000
+Komaki,Komaki XGT VP,Electric,59,999 - 65,999,https://cdn.bikedekho.com/upload/modellogo/649e8bad2105a.jpg,0
+Komaki,Komaki TN-95,Electric,1.19 - 1.40 Lakh,https://cdn.bikedekho.com/upload/modellogo/649ea7d141685.jpg,5000
+Komaki,Komaki X2 Vogue,Electric,60,999,https://cdn.bikedekho.com/upload/modellogo/649ea8fe900ca.jpg,0
+Komaki,Komaki XGT X4,Electric,1.02 - 1.24 Lakh,https://cdn.bikedekho.com/upload/modellogo/649e8600df4dc.jpg,0
+Komaki,Komaki CAT 2.0 NXT,Electric,74,999 - 99,500,https://cdn.bikedekho.com/processedimages/komaki/cat-2-nxt/source/cat-2-nxt66432c8b1de06.jpg,0
+Komaki,Komaki DT 3000,Electric,1.12 Lakh,https://cdn.bikedekho.com/upload/modellogo/649e79cb16962.jpg,3000
+EeVe,EeVe Ahava,Electric,62,499,https://cdn.bikedekho.com/processedimages/eeve/ahava/640X309/ahava63047e85ed81b.jpg,250
+EeVe,EeVe Atreo,Electric,68,999,https://cdn.bikedekho.com/processedimages/eeve/atreo/640X309/atreo63047e7ba556a.jpg,250
+EeVe,EeVe Wind,Electric,59,999,https://cdn.bikedekho.com/processedimages/eeve/wind/640X309/wind63047e932deb0.jpg,250
+EeVe,EeVe Soul,Electric,1.20 Lakh,https://cdn.bikedekho.com/processedimages/eeve/soul/640X309/soul63047e35773c2.jpg,1200
+EeVe,EeVe Xeniaa,Electric,79,999 - 86,999,https://cdn.bikedekho.com/processedimages/eeve/xeniaa/640X309/xeniaa63047e6c0e27d.jpg,250
+BattRE Electric Mobility,BattRE Electric LoEV,Electric,59,900,https://cdn.bikedekho.com/processedimages/battre-electric-mobility/loev/source/loev65b241e15d2d1.jpg,0
+BattRE Electric Mobility,BattRE Electric Storie,Electric,99,999 - 1.15 Lakh,https://cdn.bikedekho.com/processedimages/battre-electric-mobility/storie/source/storie67642a7d57433.jpg,2400
+BattRE Electric Mobility,BattRE Electric ONE,Electric,73,900,https://cdn.bikedekho.com/processedimages/battre-electric-mobility/oem/source/oem65b24277dec40.jpg,0
+BattRE Electric Mobility,BattRE LOEV+,Electric,79,999,https://cdn.bikedekho.com/processedimages/battre-electric-mobility/loev-plus/source/loev-plus67ea5e905de6e.jpg,0
+Joy e-bike,Joy e-bike Gen Next Nanu,Electric,53,999 - 64,099,https://cdn.bikedekho.com/processedimages/joye-bike/gen-nxt-nanu-e-scooter/640X309/gen-nxt-nanu-e-scooter64197e4313ccf.jpg,1000
+Joy e-bike,Joy e-bike Wolf Plus,Electric,71,099,https://cdn.bikedekho.com/processedimages/joye-bike/wolfplus/640X309/wolfplus620b30dcbe9f1.jpg,1500
+Joy e-bike,Joy e-bike Wolf,Electric,54,999 - 65,099,https://cdn.bikedekho.com/processedimages/joye-bike/wlof/640X309/wlof64197e5b6902d.jpg,1000
+Joy e-bike,Joy e-bike Glob,Electric,70,000,https://cdn.bikedekho.com/processedimages/joye-bike/glob/640X309/glob5e999dd3e0805.jpg,250
+Joy e-bike,Joy e-bike Gen Next Nanu Plus,Electric,70,099,https://cdn.bikedekho.com/processedimages/joye-bike/gen-nxt-nanu-plus/640X309/gen-nxt-nanu-plus620b32f9da0ca.jpg,1500
+Joy e-bike,Joy e-bike Mihos,Electric,1.08 Lakh,https://cdn.bikedekho.com/processedimages/joy-e/mihos/640X309/mihos63bff03610510.jpg,1500
+BGauss,BGauss Max C12,Electric,99,990 - 1.30 Lakh,https://cdn.bikedekho.com/processedimages/bgauss/c12i-max/source/c12i-max68624902204e5.jpg,2500
+BGauss,BGauss RUV 350,Electric,1.20 - 1.40 Lakh,https://cdn.bikedekho.com/processedimages/bgauss/ruv350/source/ruv3506707ac9b1b225.jpg,3500
+BGauss,BGauss OoWah,Electric,94,990 - 1.10 Lakh,https://cdn.bikedekho.com/processedimages/bgauss/oowah/source/oowah68ca705085322.jpg,2400
+Gemopai,Gemopai Ryder,Electric,70,850,https://cdn.bikedekho.com/processedimages/gemopai/ryder/source/ryder668e1d1721f19.jpg,250
+Gemopai,Gemopai Astrid Lite,Electric,1.11 Lakh,https://cdn.bikedekho.com/processedimages/gemopai/astrid-lite/source/astrid-lite668e1b9788c61.jpg,4000
+Gemopai,Gemopai Ryder SuperMax,Electric,79,999,https://cdn.bikedekho.com/processedimages/gemopai/ryder-supermax/source/ryder-supermax668e1137d8344.jpg,2700
+Ujaas Energy,Ujaas eGo LA,Electric,39,880,https://cdn.bikedekho.com/processedimages/ujaas-energy/ego/640X309/ego5e5dd76eb9838.jpg,250
+Ujaas Energy,Ujaas eSpa LA,Electric,42,924,https://cdn.bikedekho.com/processedimages/ujaas-energy/espa/640X309/espa5e5dd89971cb2.jpg,250
+Ujaas Energy,Ujaas eGo Li,Electric,60,774,https://cdn.bikedekho.com/processedimages/ujaas-energy/ego-li/640X309/ego-li5e5dd79259f3d.jpg,250
+Ujaas Energy,Ujaas eGo T3,Electric,59,724 - 70,224,https://cdn.bikedekho.com/processedimages/ujaas-energy/ego-t3/640X309/ego-t3604eef7c1a3b7.jpg,250
+Ujaas Energy,Ujaas eSpa Li,Electric,60,774,https://cdn.bikedekho.com/processedimages/ujaas-energy/espa-li/640X309/espa-li5e5dd8afe5a16.jpg,250
+Stella Moto,Stella Moto SA 2000,Electric,86,000 - 94,000,https://cdn.bikedekho.com/processedimages/stella/sa2000/640X309/sa20005fb61403e93b4.jpg,250
+Stella Moto,Stella Moto BUZZ,Electric,95,000,https://cdn.bikedekho.com/processedimages/stella/buzz/640X309/buzz6391d7a0d74a2.jpg,2000
+ABZO,ABZO Sigilo,Electric,99,900 - 1.37 Lakh,https://cdn.bikedekho.com/processedimages/abzo/sigilo/source/sigilo68305fc92ade4.jpg,0
+ADMS,ADMS Mantra,Electric,57,999,https://cdn.bikedekho.com/processedimages/adms/mantra/640X309/mantra6468512630cba.jpg,1200
+ADMS,ADMS GTR,Electric,95,000,https://cdn.bikedekho.com/processedimages/adms/gtr/640X309/gtr6468508496c9a.jpg,1000
+ADMS,ADMS EVA,Electric,1.35 Lakh,https://cdn.bikedekho.com/processedimages/adms/eva/640X309/eva646850a53e3bc.jpg,2500
+ADMS,ADMS Phantom,Electric,1.49 Lakh,https://cdn.bikedekho.com/processedimages/adms/phantom/source/phantom67499f6bdfa2c.jpg,2000
+ADMS,ADMS TTX,Electric,1.17 Lakh,https://cdn.bikedekho.com/processedimages/adms/ttx/640X309/ttx646850d4aedd0.jpg,250
+ADMS,ADMS Marvel,Electric,97,000,https://cdn.bikedekho.com/processedimages/adms/maevel/640X309/maevel6468512ef3df3.jpg,250
+ADMS,ADMS DB,Electric,1.33 Lakh,https://cdn.bikedekho.com/processedimages/adms/db/640X309/db646850b940798.jpg,1200
+AMO Electric,AMO Electric Jaunty-3W,Electric,81,669,https://cdn.bikedekho.com/processedimages/amomobility/jaunty-3w/640X309/jaunty-3w62d4ff0d6ef3e.jpg,249
+AMO Electric,AMO Electric Jaunty,Electric,56,852 - 90,677,https://cdn.bikedekho.com/processedimages/amomobility/jaunty/640X309/jaunty62d4fedc705bb.jpg,249
+AMO Electric,Amo Electric Feisty EV,Electric,62,180,https://cdn.bikedekho.com/processedimages/amomobility/feisty/source/feisty6558419e6bfa7.jpg,249
+AMO Electric,AMO Electric Jaunty L,Electric,54,577,https://cdn.bikedekho.com/processedimages/amomobility/jaunty-l/source/jaunty-l682c81f3caca1.jpg,0
+AMO Electric,AMO Electric Jaunty S,Electric,50,609,https://cdn.bikedekho.com/processedimages/amomobility/jaunty-s/source/jaunty-s682c73737d26a.jpg,2110
+AMO Electric,AMO Electric Brisk,Electric,62,913,https://cdn.bikedekho.com/processedimages/amomobility/brisk/source/brisk6558408ed1f3e.jpg,249
+AMO Electric,AMO Electric Jaunty I-Pro ,Electric,98,736,https://cdn.bikedekho.com/processedimages/amomobility/jaunty-i-pro/source/jaunty-i-pro682c68a1c41a1.jpg,2900
+AMO Electric,AMO Electric Inspirer,Electric,49,989 - 86,626,https://cdn.bikedekho.com/processedimages/amomobility/inspirer/source/inspirer6650642e68aa8.jpg,249
+AMO Electric,AMO Electric Jaunty Pro,Electric,69,256,https://cdn.bikedekho.com/processedimages/amomobility/jaunty-pro/640X309/jaunty-pro645dcafde5f58.jpg,249
+AMO Electric,AMO Electric Jaunty Plus,Electric,1.08 Lakh,https://cdn.bikedekho.com/processedimages/amomobility/jaunty-plus/640X309/jaunty-plus6200e10258857.jpg,1265
+Aeroride,Aeroride E-Spark,Electric,69,445 - 1.12 Lakh,https://cdn.bikedekho.com/processedimages/aeroride/espark/640X309/espark63c64b8ec3ab5.jpg,0
+Aeroride,Aeroride YB2000,Electric,97,100 - 1.30 Lakh,https://cdn.bikedekho.com/processedimages/aeroride/yb2000/640X309/yb200063c64b59506b0.jpg,0
+Aftek Motors,Aftek Etwo,Electric,59,990,https://cdn.bikedekho.com/processedimages/aftek-motors/etwo/source/etwo667e4c1389e86.jpg,250
+Aftek Motors,Aftek Elmo,Electric,1.10 Lakh,https://cdn.bikedekho.com/processedimages/aftek-motors/elmo/source/elmo667e4d695ea98.jpg,3000
+Aftek Motors,Aftek Eone,Electric,79,990,https://cdn.bikedekho.com/processedimages/aftek-motors/eone/source/eone667e4b298176c.jpg,250
+Ampere Electric,Ampere Magnus Neo,Electric,84,999,https://cdn.bikedekho.com/processedimages/ampere/magnus-neo/source/magnus-neo686df8ae510ad.jpg,1500
+Ampere Electric,Ampere Nexus,Electric,1.20 - 1.30 Lakh,https://cdn.bikedekho.com/processedimages/ampere/nxg/source/nxg686d1b54401a9.jpg,3300
+Ampere Electric,Ampere Magnus Grand,Electric,89,999,https://cdn.bikedekho.com/processedimages/ampere/magnus-grand/source/magnus-grand68ca8c037fbcd.jpg,2400
+Ampere Electric,Ampere Reo,Electric,59,000 - 59,900,https://cdn.bikedekho.com/processedimages/ampere/reo/source/reo686e4716c4096.jpg,250
+Avera,Avera Retrosa,Electric,88,900 - 1.28 Lakh,https://cdn.bikedekho.com/processedimages/avera/retrosa/source/retrosa67761faf9ff65.jpg,2700
+BNC Motors,BNC Motors Challenger,Electric,99,900 - 1.30 Lakh,https://cdn.bikedekho.com/processedimages/boom-motors/bnc-challenger/source/bnc-challenger67c6fc7e3244e.jpg,3000
+BNC Motors,BNC Perfetto,Electric,1.15 Lakh,https://cdn.bikedekho.com/processedimages/boom-motors/perfetto/source/perfetto684156d06eb35.jpg,4200
+Bounce,Bounce Infinity E.1,Electric,1.16 - 1.26 Lakh,https://cdn.bikedekho.com/processedimages/bounce/e-scooter/source/e-scooter663c5bb41a7de.jpg,2200
+Corrit Electric,Corrit Electric Transit,Electric,1.29 Lakh,https://cdn.bikedekho.com/processedimages/corrit-electric/transit/source/transit6694d27e33801.jpg,0
+Crayon Motors,Crayon Envy,Electric,58,307 - 71,575,https://cdn.bikedekho.com/processedimages/crayon-motors/envy/640X309/v_envy-lithium-ion1574403602.jpg,250
+Crayon Motors,Crayon Zeez,Electric,51,760 - 64,075,https://cdn.bikedekho.com/processedimages/crayon-motors/zeez/640X309/v_zeez-lithium-ion1574403728.jpg,250
+DAO,DAO Vidyut 108,Electric,86,449,https://cdn.bikedekho.com/processedimages/dao/vidyut-108/640X309/vidyut-10861b8839c87145.jpg,250
+DAO,DAO Zor 405,Electric,89,184 - 1.19 Lakh,https://cdn.bikedekho.com/processedimages/dao/zor-405/source/zor-405668cf099ccab7.jpg,250
+DAO,DAO Model 703,Electric,1.26 Lakh,https://cdn.bikedekho.com/processedimages/dao/model-703/640X309/model-703619f5772998fb.jpg,2500
+DelEVery,DelEVery U1 Electric,Electric,1.18 - 1.30 Lakh,https://cdn.bikedekho.com/processedimages/delevery/electric-xl200/source/electric-xl200656978d305a61.jpg,2200
+Deltic,Deltic Drixx,Electric,64,990 - 91,990,https://cdn.bikedekho.com/processedimages/deltic/drixx/640X309/drixx63c7b4c4b6572.jpg,250
+Deltic,Deltic Legion,Electric,69,490 - 95,990,https://cdn.bikedekho.com/processedimages/deltic/legion/640X309/legion63c7b5ee2d82b.jpg,250
+Deltic,Deltic ZGS,Electric,1.02 Lakh,https://cdn.bikedekho.com/processedimages/deltic/zgs/640X309/zgs63c7b615ce5bd.jpg,2000
+Deltic,Deltic Trento,Electric,1.28 Lakh,https://cdn.bikedekho.com/processedimages/deltic/trento/640X309/trento63c7b6090865f.jpg,3000
+Detel EV,Detel EV Veeru,Electric,75,000,https://cdn.bikedekho.com/processedimages/etel-ev/veeru/source/veeru6788850967a39.jpg,250
+E-Went,E-Went Rabbitor,Electric,60,100 - 83,000,https://cdn.bikedekho.com/processedimages/e-went/rabbitor/source/rabbitor65a0b30e9a036.jpg,250
+E-Went,E-Went Marium,Electric,66,400 - 89,800,https://cdn.bikedekho.com/processedimages/e-went/marium/source/marium65a0b3df773a2.jpg,1500
+EVeium,EVeium COMET,Electric,1.85 Lakh,https://cdn.bikedekho.com/processedimages/eveium/comet/640X309/comet62d7d9d846d10.jpg,3000
+EVeium,EVeium COSMO,Electric,1.39 Lakh,https://cdn.bikedekho.com/processedimages/eveium/cosmo/640X309/cosmo62d7d9c074d99.jpg,2000
+EVeium,EVeium CZAR,Electric,2.08 Lakh,https://cdn.bikedekho.com/processedimages/eveium/czar/640X309/czar62d7d9e5d35d5.jpg,4000
+Energy Automobile,Energy Automobile EvOne,Electric,60,000,https://cdn.bikedekho.com/processedimages/energy-automobile/evone/640X309/evone64631723c406a.jpg,250
+Enigma,Enigma Ambier N8,Electric,95,000 - 1.05 Lakh,https://cdn.bikedekho.com/upload/modellogo/64bf7142a7247.jpg,1500
+Enigma,Enigma GT 450 Pro,Electric,86,902,https://cdn.bikedekho.com/processedimages/enigma/gt-450-pro/640X309/gt-450-pro645367e8b7cd5.jpg,0
+Enigma,Enigma Crink Pro,Electric,1.15 Lakh,https://cdn.bikedekho.com/processedimages/enigma/crink-pro/640X309/crink-pro645367fd52ecd.jpg,3000
+Enigma,Enigma Crink V1,Electric,96,835,https://cdn.bikedekho.com/processedimages/enigma/crink-v1/640X309/crink-v1645367f22f2fc.jpg,0
+Essel Energy,Essel Energy GET 1,Electric,41,500 - 43,500,https://cdn.bikedekho.com/processedimages/essel-energy/get-1/640X309/get-15e942cde8bbbd.jpg,250
+Essel Energy,Essel Energy GET 1+,Electric,81,314 - 86,930,https://cdn.bikedekho.com/processedimages/essel-energy/get-1plus/source/get-1plus665ff8efdded8.jpg,250
+Essel Energy,Essel Energy Wind,Electric,54,600 - 73,650,https://cdn.bikedekho.com/processedimages/essel-energy/essel-energy-wind/source/essel-energy-wind666001c42a1b7.jpg,250
+Evolet,Evolet Pony,Electric,59,999,https://cdn.bikedekho.com/processedimages/evolet/polo-pony/640X309/v_polo-pony-classic1572854352.jpg,250
+Evolet,Evolet Derby,Electric,78,999,https://cdn.bikedekho.com/processedimages/evolet/derby/640X309/derby62e4b569490a9.jpg,250
+Evolet,Evolet Dhanno,Electric,84,999,https://cdn.bikedekho.com/processedimages/evolet/dhanno/640X309/dhanno6195d9ae0ea1c.jpg,250
+Fidato Evtech,Fidato Evtech Easy Go,Electric,86,400,https://cdn.bikedekho.com/processedimages/fidato-evtech/easy-go/640X309/easy-go622efb1ed2a89.jpg,0
+Fidato Evtech,Fidato Evtech Future 2020,Electric,70,300,https://cdn.bikedekho.com/processedimages/fidato-evtech/future-2020/640X309/future-2020622ef55f14d4b.jpg,0
+Fidato Evtech,Fidato Evtech Cutie,Electric,70,300,https://cdn.bikedekho.com/processedimages/fidato-evtech/cutie/640X309/cutie622ef3a0ea2d0.jpg,0
+Fidato Evtech,Fidato Evtech EasyGo Plus,Electric,95,605,https://cdn.bikedekho.com/processedimages/fidato-evtech/eaasygo-plus/640X309/eaasygo-plus622efcac1f954.jpg,0
+Fidato Evtech,Fidato Evtech Loder,Electric,83,490,https://cdn.bikedekho.com/processedimages/fidato-evtech/loder/640X309/loder622efddf78360.jpg,0
+Flycon Motors,Flycon Empire +,Electric,89,999 - 1.33 Lakh,https://cdn.bikedekho.com/processedimages/flycon-motors/flycon-empire-plus/source/flycon-empire-plus652e6fb745506.jpg,0
+Flycon Motors,Flycon T3,Electric,89,999 - 1.15 Lakh,https://cdn.bikedekho.com/processedimages/flycon-motors/flycon-t3/source/flycon-t3652e7034f1ab3.jpg,2000
+Flycon Motors,Flycon Grove,Electric,74,629 - 80,957,https://cdn.bikedekho.com/processedimages/flycon-motors/flycon-grove/source/flycon-grove652e6ef6c3e93.jpg,0
+Flycon Motors,Flycon Bright,Electric,80,000,https://cdn.bikedekho.com/processedimages/flycon-motors/flycon-bright/source/flycon-bright652e6e9819712.jpg,0
+Flycon Motors,Flycon Empire,Electric,79,900,https://cdn.bikedekho.com/processedimages/flycon-motors/flycon-empire/source/flycon-empire652e6f4e1b75b.jpg,0
+Fujiyama,Fujiyama Spectra,Electric,51,528 - 77,119,https://cdn.bikedekho.com/upload/modellogo/64b684d527351.jpg,250
+Fujiyama,Fujiyama Ozone,Electric,79,999,https://cdn.bikedekho.com/upload/modellogo/64b6860f1b9b2.jpg,3700
+Fujiyama,Fujiyama Spectra Pro,Electric,54,384 - 79,975,https://cdn.bikedekho.com/upload/modellogo/64b66ab7209e2.jpg,250
+GT Force,GT One Plus Pro,Electric,76,999,https://cdn.bikedekho.com/processedimages/gt-force/one-plus-pro/source/one-plus-pro665826a890a02.jpg,0
+GT Force,GT Vegas,Electric,57,999,https://cdn.bikedekho.com/processedimages/gt-force/gt-vegas/source/gt-vegas66582aa74f925.jpg,0
+GT Force,GT Drive Pro,Electric,85,999,https://cdn.bikedekho.com/processedimages/gt-force/drive-pro/source/drive-pro66582125dba4a.jpg,0
+GT Force,GT RYD Plus,Electric,68,999,https://cdn.bikedekho.com/processedimages/gt-force/ryd-plus/source/ryd-plus66582dd86167b.jpg,0
+Gaura Electric,Gaura Warrior 5G,Electric,62,999 - 99,990,https://cdn.bikedekho.com/processedimages/gaura-electric/warrior-5g/source/warrior-5g67628c639f1fd.jpg,250
+Gaura Electric,Gaura G6,Electric,99,999,https://cdn.bikedekho.com/processedimages/gaura-electric/g6/source/g66762b4fb314e6.jpg,1800
+Gaura Electric,Gaura Sniper 5G,Electric,52,990 - 69,990,https://cdn.bikedekho.com/processedimages/gaura-electric/sniper-5g/source/sniper-5g67628cc6d4629.jpg,250
+Gaura Electric,Gaura Partner 5G,Electric,79,990 - 86,990,https://cdn.bikedekho.com/processedimages/gaura-electric/partner-5g/source/partner-5g67628bc89fbbc.jpg,250
+Gaura Electric,Gaura G5,Electric,79,999,https://cdn.bikedekho.com/processedimages/gaura-electric/g5/source/g56762a55e505f7.jpg,1800
+Geliose,Geliose Hope,Electric,46,999,https://cdn.bikedekho.com/processedimages/geliose/hope/640X309/hope605c7587ca44c.jpg,250
+GoBike,GoBike XL,Electric,1.10 Lakh,https://cdn.bikedekho.com/processedimages/birla-e-bike/birla-xl/640X309/birla-xl63086a6326217.jpg,0
+GoBike,GoBike Spark,Electric,69,182 - 1.01 Lakh,https://cdn.bikedekho.com/processedimages/birla-e-bike/birla-spark/640X309/birla-spark63086b5aab0fe.jpg,0
+GoBike,GoBike Quanto,Electric,69,182 - 1.01 Lakh,https://cdn.bikedekho.com/processedimages/birla-e-bike/quanto/640X309/quanto63086b11449ff.jpg,0
+GoBike,GoBike Electro,Electric,76,109 - 1.10 Lakh,https://cdn.bikedekho.com/processedimages/birla-e-bike/electro/640X309/electro63086aca61d97.jpg,0
+GoBike,GoBike E-Smart,Electric,71,780 - 1.04 Lakh,https://cdn.bikedekho.com/processedimages/birla-e-bike/e-smart/640X309/e-smart63086a88daca2.jpg,0
+GoBike,GoBike Ambition,Electric,73,817 - 1.08 Lakh,https://cdn.bikedekho.com/processedimages/birla-e-bike/ambition/640X309/ambition63086ba0457d3.jpg,0
+HCD India,HCD India NPS Cargo,Electric,80,850 - 1 Lakh,https://cdn.bikedekho.com/processedimages/hcd-india/nps-cargo/640X309/nps-cargo600509c3dce87.jpg,250
+Hayasa,Hayasa Nirbhar,Electric,80,550,https://cdn.bikedekho.com/processedimages/hayasa/nirbhar/640X309/nirbhar62b94f6fd9b21.jpg,230
+Hayasa,Hayasa Daksha,Electric,74,050,https://cdn.bikedekho.com/processedimages/hayasa/daksha/640X309/daksha62b94f063ea1c.jpg,230
+Hayasa,Hayasa Ira,Electric,76,750,https://cdn.bikedekho.com/processedimages/hayasa/ira/640X309/ira62b94ea84ca56.jpg,230
+Hayasa,Hayasa Ojas,Electric,80,550,https://cdn.bikedekho.com/processedimages/hayasa/ojas/640X309/ojas62b94cf7dee55.jpg,230
+Herald,Herald Legend,Electric,63,761 - 1.24 Lakh,https://cdn.bikedekho.com/upload/modellogo/64a2b856bb336.jpg,2000
+Herald,Herald Rider,Electric,87,660,https://cdn.bikedekho.com/upload/modellogo/64a2b6cd2de6f.jpg,2000
+Herald,Herald Royal,Electric,63,761 - 1.23 Lakh,https://cdn.bikedekho.com/upload/modellogo/64a2b5c36eb76.jpg,3000
+Hop Electric,Hop Electric LEO,Electric,84,360 - 1.05 Lakh,https://cdn.bikedekho.com/processedimages/hop-electric/leo/source/leo677bd2ab399d9.jpg,2500
+JHEV,JHEV Alfa R1,Electric,89,999,https://cdn.bikedekho.com/processedimages/jhev/alfa-r1/source/alfa-r165e2d040a5dd1.jpg,2000
+JHEV,JHEV Alfa R5,Electric,1.12 Lakh,https://cdn.bikedekho.com/processedimages/jhev/alfa-r5/source/alfa-r565e2d0e60281e.jpg,2000
+JHEV,JHEV Alfa K1,Electric,1.25 Lakh,https://cdn.bikedekho.com/processedimages/jhev/alfa-k1/source/alfa-k165e2cfb021040.jpg,3000
+JHEV,JHEV Alfa R3,Electric,1.25 Lakh,https://cdn.bikedekho.com/processedimages/jhev/alfa-r3/source/alfa-r365e2d088b1bf1.jpg,3000
+Jitendra EV,Jitendra JMT 1000,Electric,65,997 - 1.24 Lakh,https://cdn.bikedekho.com/processedimages/jitendra-ev/jmt-1000/source/jmt-10006864f9c025eef.jpg,1007
+Jitendra EV,Jitendra Yunik,Electric,92,000 - 1.24 Lakh,https://cdn.bikedekho.com/processedimages/jitendra-ev/yunik/source/yunik677cfafeccd0e.jpg,2500
+Jitendra EV,Jitendra Primo,Electric,92,007,https://cdn.bikedekho.com/processedimages/jitendra-ev/primo/source/primo658abca517079.jpg,1070
+Kabira Mobility,Kabira Hermes 75,Electric,74,200 - 88,900,https://cdn.bikedekho.com/processedimages/kabira-mobility/hermes-75/source/hermes-756839708bd0535.jpg,2500
+Kinetic,Kinetic DX EV,Electric,1.11 - 1.17 Lakh,https://cdn.bikedekho.com/processedimages/kinetic/dx/source/dx6887352383d92.jpg,4700
+Kinetic Green,Kinetic Green E Luna,Electric,69,990 - 82,490,https://cdn.bikedekho.com/processedimages/kinetic/luna-electric/source/luna-electric6638ade192cd0.jpg,2200
+Kinetic Green,Kinetic Green Zing,Electric,67,990 - 75,990,https://cdn.bikedekho.com/processedimages/kinetic-green/zing/source/zing665959d5e5a24.jpg,250
+Kinetic Green,Kinetic Green Zoom,Electric,71,531 - 78,776,https://cdn.bikedekho.com/processedimages/kinetic-green/zoom/source/zoom66596596a241b.jpg,250
+Kinetic Green,Kinetic Green Flex,Electric,1.10 Lakh,https://cdn.bikedekho.com/processedimages/kinetic-green/flex/source/flex66595f768885c.jpg,1200
+Kinetic Green,Kinetic Green Zulu,Electric,79,990,https://cdn.bikedekho.com/processedimages/kinetic-green/zulu/source/zulu65a63998a7bef.jpg,2100
+Kyte Energy,Kyte Energy Magnum,Electric,64,360 - 84,999,https://cdn.bikedekho.com/processedimages/kyte-energy/magnum-pro/640X309/magnum-pro635a14db23637.jpg,2400
+Kyte Energy,Kyte Energy Stella R,Electric,54,999 - 80,000,https://cdn.bikedekho.com/processedimages/kyte-energy/stella-r/source/stella-r679364fa29e39.jpg,250
+Kyte Energy,Kyte Energy X1,Electric,84,000 - 99,000,https://cdn.bikedekho.com/processedimages/kyte-energy/x1/source/x1667a6586aa62b.jpg,0
+Lectrix EV,Lectrix NDuro,Electric,59,999 - 99,999,https://cdn.bikedekho.com/processedimages/lectrix-ev/nduro/source/nduro675190d9a8411.jpg,0
+Lectrix EV,Lectrix EV ZYRO,Electric,46,999 - 59,999,https://cdn.bikedekho.com/processedimages/lectrix-ev/zyro/source/zyro686503613999f.jpg,0
+Lectrix EV,Lectrix EV LXS,Electric,49,999 - 54,999,https://cdn.bikedekho.com/processedimages/lectrix-ev/lxs/640X309/lxs636a13b5805a6.jpg,1900
+Lectrix EV,Lectrix LXS 2.0,Electric,84,990,https://cdn.bikedekho.com/processedimages/lectrix-ev/lxs-2/source/lxs-2662b4d432c0b8.jpg,1200
+Lectrix EV,Lectrix EV SX25,Electric,54,999 - 67,999,https://cdn.bikedekho.com/processedimages/lectrix-ev/sx25/source/sx256641e3eb88587.jpg,250
+Lectrix EV,Lectrix EV LXS 3.0,Electric,1.02 Lakh,https://cdn.bikedekho.com/processedimages/lectrix-ev/lxs-3/source/lxs-366b0ab07010e8.jpg,1200
+MX Moto,MX Moto MG Pro,Electric,69,999 - 74,999,https://cdn.bikedekho.com/processedimages/mx-moto/mg-pro/source/mg-pro66054639db366.jpg,0
+MX Moto,MX Moto MXV,Electric,84,999 - 94,999,https://cdn.bikedekho.com/processedimages/mx-moto/mxv/source/mxv6605486e31d46.jpg,3000
+Maruthisan,Maruthisan MS 3.0,Electric,1.49 - 1.58 Lakh,https://cdn.bikedekho.com/upload/modellogo/64c7888591658.jpg,0
+Motovolt,Motovolt M7,Electric,74,999 - 99,900,https://cdn.bikedekho.com/processedimages/motovolt/m7/source/m766fa9076ce166.jpg,1500
+Motovolt,Motovolt MVS7,Electric,59,999,https://cdn.bikedekho.com/processedimages/motovolt/mvs7/source/mvs76895eee878024.jpg,1500
+NDS Eco Motors,NDS Eco Motors E2C,Electric,1.09 - 1.55 Lakh,https://cdn.bikedekho.com/processedimages/nds-eco-motors/e2c/source/e2c666c129b3304f.jpg,2000
+NDS Eco Motors,NDS Eco Motors SQD,Electric,1.20 - 1.64 Lakh,https://cdn.bikedekho.com/processedimages/nds-eco-motors/sqd/source/sqd666c12f022f80.jpg,2000
+NIJ Automotive ,NIJ Automotive Accelero R14,Electric,49,731 - 73,326,https://cdn.bikedekho.com/processedimages/nij-automotive/accelero/640X309/accelero62a81986e78fc.jpg,250
+NIJ Automotive ,NIJ Automotive Accelero X-Pro,Electric,58,100 - 1.10 Lakh,https://cdn.bikedekho.com/processedimages/nij-automotive/accelero-xpro/640X309/accelero-xpro6438f7096d5d1.jpg,250
+NIJ Automotive ,NIJ Automotive Accelero Plus,Electric,55,200 - 77,625,https://cdn.bikedekho.com/processedimages/nij-automotive/accelero-plus/640X309/accelero-plus629d878300e5a.jpg,250
+Numeros Motors,Numeros Diplos Pro,Electric,1.07 Lakh,https://cdn.bikedekho.com/processedimages/numeros-motors/diplos-pro/source/diplos-pro65af8a178d5ca.jpg,2670
+Numeros Motors,Numeros Diplos Max,Electric,1.13 Lakh,https://cdn.bikedekho.com/processedimages/numeros-motors/diplos-max/source/diplos-max687093dfdfba1.jpg,2670
+Numeros Motors,Numeros Diplos Max Plus,Electric,1.21 Lakh,https://cdn.bikedekho.com/processedimages/numeros-motors/diplos-max-plus/source/diplos-max-plus68babcf1e653f.jpg,2890
+OPG Mobility,OPG Faast F2B,Electric,89,999,https://cdn.bikedekho.com/processedimages/opg-mobility/opg-faast-f2b/source/opg-faast-f2b689d790a17436.jpg,2300
+OPG Mobility,OPG Freedum,Electric,49,999 - 69,999,https://cdn.bikedekho.com/processedimages/opg-mobility/opg-freedum/source/opg-freedum689c8481627b7.jpg,250
+OPG Mobility,OPG Motofaast,Electric,1.34 Lakh,https://cdn.bikedekho.com/processedimages/opg-mobility/opg-motofaast/source/opg-motofaast689c7a821aa7d.jpg,2300
+OPG Mobility,OPG Faast F2F,Electric,79,999,https://cdn.bikedekho.com/processedimages/opg-mobility/opg-faast-f2f/source/opg-faast-f2f689d71ecb3268.jpg,1300
+OPG Mobility,OPG Faast F3,Electric,1.05 Lakh,https://cdn.bikedekho.com/processedimages/opg-mobility/opg-faast-f3/source/opg-faast-f3689dadcab5a93.jpg,2500
+OPG Mobility,OPG Faast F4,Electric,1.10 Lakh,https://cdn.bikedekho.com/processedimages/opg-mobility/opg-faast-f4/source/opg-faast-f4689dacd581d0d.jpg,2500
+OPG Mobility,OPG Defy 22,Electric,99,999,https://cdn.bikedekho.com/processedimages/opg-mobility/defy-22/source/defy-22689d7588d46eb.jpg,2300
+OPG Mobility,OPG Faast F2T,Electric,89,999,https://cdn.bikedekho.com/processedimages/opg-mobility/opg-faast-f2t/source/opg-faast-f2t689c7c49dc06d.jpg,2500
+Odysse Electric,Odysse Electric V2,Electric,77,250 - 1 Lakh,https://cdn.bikedekho.com/processedimages/odysse-electric/v2/640X309/v26284e5d5cc1ee.jpg,250
+Odysse Electric,Odysse Racer Neo,Electric,52,000 - 63,000,https://cdn.bikedekho.com/processedimages/odysse-electric/racer-neo/source/racer-neo686babc5e1089.jpg,0
+Odysse Electric,Odysse Electric Hawk,Electric,99,400 - 1.18 Lakh,https://cdn.bikedekho.com/processedimages/odysse-electric/odysse-hawk/640X309/odysse-hawk6045c23b3be14.jpg,1800
+Odysse Electric,Odysse Electric Trot,Electric,99,999,https://cdn.bikedekho.com/processedimages/odysse-electric/trot/source/trot6556e3b57113b.jpg,250
+Odysse Electric,Odysse Electric E2Go,Electric,71,100 - 94,100,https://cdn.bikedekho.com/processedimages/odysse-electric/e2go/640X309/e2go5ffeab73d8e2b.jpg,250
+Odysse Electric,Odysse Snap,Electric,79,999,https://cdn.bikedekho.com/processedimages/odysse-electric/snap/source/snap66d693a7550e9.jpg,1200
+Okaya Electric,Okaya Freedum,Electric,69,999,https://cdn.bikedekho.com/processedimages/okaya/freedum/640X309/freedum63329c85002c0.jpg,250
+Okaya Electric,Okaya Faast F2F,Electric,79,999,https://cdn.bikedekho.com/processedimages/okaya/faast-f2f/640X309/faast-f2f63f49302350aa.jpg,1300
+Okaya Electric,Okaya Faast F2B,Electric,89,999,https://cdn.bikedekho.com/processedimages/okaya/faast-f2b/640X309/faast-f2b633a86247c32c.jpg,2300
+Okaya Electric,Okaya Faast,Electric,1.05 - 1.10 Lakh,https://cdn.bikedekho.com/processedimages/okaya/faast/640X309/faast63f30b088ce9a.jpg,2500
+Okaya Electric,Okaya Faast F2T,Electric,89,999,https://cdn.bikedekho.com/processedimages/okaya/faast-f2t/640X309/faast-f2t63847514d8538.jpg,2500
+Okaya Electric,Okaya Motofaast,Electric,1.34 Lakh,https://cdn.bikedekho.com/processedimages/okaya/motofaast/source/motofaast65d31a5ed910a.jpg,2300
+One Moto,One Moto Electa,Electric,1.99 Lakh,https://cdn.bikedekho.com/processedimages/one-moto/electa/640X309/electa61c98dccde9e6.jpg,4000
+One Moto,One Moto Commuta,Electric,1.30 Lakh,https://cdn.bikedekho.com/processedimages/one-moto/commuta/640X309/commuta61c9ac9973b81.jpg,2000
+One Moto,One Moto Byka,Electric,1.80 Lakh,https://cdn.bikedekho.com/processedimages/one-moto/byka/640X309/byka61c9ad8fd5847.jpg,4000
+Ozotec,Ozotec Flio,Electric,79,990 - 1.33 Lakh,https://cdn.bikedekho.com/processedimages/ozotec/flio/source/flio668fd632e5611.jpg,0
+Ozotec,Ozotec Bheem,Electric,1.15 Lakh,https://cdn.bikedekho.com/upload/modellogo/649437c6ac4e2.jpg,3000
+Quantum Energy,Quantum Plasma,Electric,89,095 - 1.25 Lakh,https://cdn.bikedekho.com/processedimages/quantum-energy/plasma/source/plasma64f8744ddba6b.jpg,1500
+Quantum Energy,Quantum BZiness,Electric,96,499 - 1.20 Lakh,https://cdn.bikedekho.com/processedimages/quantum-energy/bziness/source/bziness6710ff53ac886.jpg,1200
+Quantum Energy,Quantum Milan,Electric,89,000,https://cdn.bikedekho.com/processedimages/quantum-energy/milan/640X309/milan643521c820660.jpg,1000
+RBSeVA,RBSeVA Legend,Electric,77,230,https://cdn.bikedekho.com/processedimages/rbseva/legend/640X309/legend61ee43d868595.jpg,0
+RBSeVA,RBSeVA Rider,Electric,67,689,https://cdn.bikedekho.com/processedimages/rbseva/rider/640X309/rider61ee3c25af9d1.jpg,0
+Raftaar,Raftaar Galaxy,Electric,51,900,https://cdn.bikedekho.com/processedimages/raftaar/galaxy/640X309/galaxy628b23ed1f77b.jpg,250
+Raftaar,Raftaar Bumblebee,Electric,88,000,https://cdn.bikedekho.com/processedimages/raftaar/bumblebee/640X309/bumblebee628b1db2eeef4.jpg,250
+Raftaar,Raftaar Cruzer R1,Electric,84,500,https://cdn.bikedekho.com/processedimages/raftaar/cruiser/640X309/cruiser628b24dfbb4ad.jpg,250
+Raftaar,Raftaar Electrica,Electric,70,900 - 79,900,https://cdn.bikedekho.com/processedimages/raftaar/electrica/640X309/electrica628b22c9acefd.jpg,250
+Rowwet,Rowwet Vegatron,Electric,1.25 Lakh,https://cdn.bikedekho.com/processedimages/rowwet/vegatron/640X309/vegatron62e8dec41f385.jpg,2000
+Rowwet,Rowwet Rame,Electric,1.15 Lakh,https://cdn.bikedekho.com/processedimages/rowwet/rame/640X309/rame62e8de603f0db.jpg,2000
+Rowwet,Rowwet Zepop,Electric,61,770 - 78,500,https://cdn.bikedekho.com/processedimages/rowwet/zepop/640X309/zepop62e8df315b7d4.jpg,2000
+Rowwet,Rowwet Eleq,Electric,1.16 Lakh,https://cdn.bikedekho.com/processedimages/rowwet/eleq/640X309/eleq62e8de84df03f.jpg,2000
+Rugged,Rugged G1,Electric,78,498 - 1.03 Lakh,https://cdn.bikedekho.com/processedimages/rugged/g1/640X309/g16142cd6fa4854.jpg,1500
+SUPER ECO,Super Eco T1,Electric,56,772,https://cdn.bikedekho.com/processedimages/super-eco/t1/640X309/v_t1-std1566305292.jpg,800
+SUPER ECO,Super Eco S 2,Electric,1.05 Lakh,https://cdn.bikedekho.com/processedimages/super-eco/s-2/640X309/v_s-2-std1566305498.jpg,1000
+Seeka,Seeka Vatsal250,Electric,72,910,https://cdn.bikedekho.com/processedimages/seeka/vatsal250/source/vatsal25065fc046883924.jpg,250
+Seeka,Seeka SFlash250,Electric,71,911,https://cdn.bikedekho.com/processedimages/seeka/sflash250/source/sflash25065fc04ba9b19b.jpg,250
+Seeka,Seeka Smak,Electric,99,911 - 1.19 Lakh,https://cdn.bikedekho.com/processedimages/seeka/smak/source/smak65fc03930bb5e.jpg,2000
+Shema E-Vehicle,Shema Eagle,Electric,64,999 - 1.17 Lakh,https://cdn.bikedekho.com/processedimages/shema-e-vehicle/shema-eagle/source/shema-eagle65715f6ae2d1b.jpg,1200
+Shema E-Vehicle,Shema Bold,Electric,82,200,https://cdn.bikedekho.com/processedimages/shema-e-vehicle/bold/640X309/bold62b2d3b4a4d93.jpg,250
+Shema E-Vehicle,Shema Hobby,Electric,77,000,https://cdn.bikedekho.com/processedimages/shema-e-vehicle/hobby/source/hobby65716b642bdbd.jpg,250
+Shema E-Vehicle,Shema Tuff,Electric,79,655 - 1.40 Lakh,https://cdn.bikedekho.com/processedimages/shema-e-vehicle/tuff/source/tuff657162fbc0db6.jpg,1500
+Simple Energy,Simple One,Electric,1.67 Lakh,https://cdn.bikedekho.com/processedimages/simple-energy/simple-one/source/simple-one67af054b408b2.jpg,8500
+Simple Energy,Simple OneS,Electric,1.40 Lakh,https://cdn.bikedekho.com/processedimages/simple-energy/one-s/source/one-s67d25ebde478f.jpg,8500
+Sokudo,Sokudo Acute,Electric,1.12 Lakh,https://cdn.bikedekho.com/processedimages/sokudo/acute/source/acute686b799369c5b.jpg,2300
+Sokudo,Sokudo Plus,Electric,61,889,https://cdn.bikedekho.com/processedimages/sokudo/plus/source/plus686b93ee4e383.jpg,0
+Sokudo,Sokudo Rapid,Electric,89,889,https://cdn.bikedekho.com/processedimages/sokudo/rapid/source/rapid686b965fb9a17.jpg,2300
+Sokudo,Sokudo Pace,Electric,73,999,https://cdn.bikedekho.com/processedimages/sokudo/pace/source/pace68ad6b204b78f.jpg,0
+Sokudo,Sokudo Acute 2.2,Electric,96,889,https://cdn.bikedekho.com/processedimages/sokudo/acute-2-2/source/acute-2-268ad4e6944ee1.jpg,2300
+Sokudo,Sokudo Select,Electric,93,889,https://cdn.bikedekho.com/processedimages/sokudo/select/source/select68ad569236191.jpg,2300
+Tunwal,Tunwal Strom Advance 2,Electric,1.49 Lakh,https://cdn.bikedekho.com/processedimages/tunwal/storm-zx-advance-2/640X309/storm-zx-advance-2616fce894d2fb.jpg,250
+Tunwal,Tunwal Mini Sports 63,Electric,49,990,https://cdn.bikedekho.com/processedimages/tunwal/sport-63-48v/640X309/sport-63-48v61711e81da80c.jpg,250
+Tunwal,Tunwal Mini Lithino,Electric,54,990,https://cdn.bikedekho.com/processedimages/tunwal/mini-lithino-48v/640X309/mini-lithino-48v61711d6d69b22.jpg,250
+Tunwal,Tunwal Roma,Electric,74,990,https://cdn.bikedekho.com/processedimages/tunwal/roma-s/640X309/roma-s616fce375e292.jpg,250
+Tunwal,Tunwal Storm ZX,Electric,1.20 Lakh,https://cdn.bikedekho.com/processedimages/tunwal/strom-zx/640X309/strom-zx61711e5e295b1.jpg,250
+Tunwal,Tunwal Lithino Li,Electric,74,990,https://cdn.bikedekho.com/processedimages/tunwal/lithino-li/640X309/lithino-li616fce08bc4ac.jpg,250
+Tunwal,Tunwal Strom Advance 1,Electric,1.15 Lakh,https://cdn.bikedekho.com/processedimages/tunwal/storm-zx-advance-1/640X309/storm-zx-advance-1616fce5e747a4.jpg,250
+Tunwal,Tunwal Sport,Electric,71,990,https://cdn.bikedekho.com/processedimages/tunwal/sport-63-60v/640X309/sport-63-60v61711ecc8a537.jpg,0
+VLF,VLF Mobster 135,Petrol,1.30 Lakh,https://cdn.bikedekho.com/processedimages/vlf/mobster-125/source/mobster-12568d4e86d58e8b.jpg,125
+VLF,VLF Tennis 1500,Electric,1.29 Lakh,https://cdn.bikedekho.com/processedimages/vlf/tennis-1500/source/tennis-15006880dfbc16770.jpg,0
+Vegh,Vegh S25,Electric,74,539,https://cdn.bikedekho.com/processedimages/vegh/s25/source/s2565f9d21d4ab27.jpg,250
+Vegh,Vegh L25,Electric,76,395,https://cdn.bikedekho.com/processedimages/vegh/l25/source/l2565f9d0266fa59.jpg,250
+Vegh,Vegh S60,Electric,99,000 - 1.50 Lakh,https://cdn.bikedekho.com/processedimages/vegh/s60/source/s6065f9cc28978ac.jpg,2000
+Warivo Motors,Warivo Motors Nexa,Electric,58,300 - 74,300,https://cdn.bikedekho.com/processedimages/warivo-motor/nexa/640X309/nexa60fa4d93c220b.jpg,0
+Warivo Motors,Warivo Nova,Electric,55,999 - 64,999,https://cdn.bikedekho.com/processedimages/warivo-motor/nova/source/nova684272b329edc.jpg,250
+Warivo Motors,Warivo CRX,Electric,79,999,https://cdn.bikedekho.com/processedimages/warivo-motor/crx/source/crx66e7e4452ad6c.jpg,1500
+Warivo Motors,Warivo Neo,Electric,39,999,https://cdn.bikedekho.com/processedimages/warivo-motor/warivo-neo/source/warivo-neo68427215d58a8.jpg,250
+Warivo Motors,Warivo Edge,Electric,44,999 - 49,999,https://cdn.bikedekho.com/processedimages/warivo-motor/warivo-edge/source/warivo-edge68427262c0002.jpg,250
+White Carbon Motors,White Carbon Motors GT5,Electric,1.25 Lakh,https://cdn.bikedekho.com/processedimages/white-carbon-motors/gt5/640X309/gt560939f11d2ae7.jpg,3000
+White Carbon Motors,White Carbon Motors O3,Electric,55,900,https://cdn.bikedekho.com/processedimages/white-carbon-motors/o3/640X309/o36093a09897273.jpg,250
+Wroley,Wroley Mars ,Electric,71,900,https://cdn.bikedekho.com/processedimages/wroley/mars/640X309/mars6258fd72729b7.jpg,250
+Wroley,Wroley Platina,Electric,79,900,https://cdn.bikedekho.com/processedimages/wroley/wroley-platina/640X309/wroley-platina6258fe36782fd.jpg,250
+Wroley,Wroley Posh,Electric,82,900,https://cdn.bikedekho.com/processedimages/wroley/posh/640X309/posh6258fefbf301d.jpg,250
+YObykes,Yo Electron DX,Electric,56,000,https://cdn.bikedekho.com/processedimages/yobykes/electron-dx/source/electron-dx664cc21dc7c38.jpg,250
+YObykes,Yo Drift DX,Electric,65,000 - 70,000,https://cdn.bikedekho.com/processedimages/yobykes/drift/source/drift664cbb5c327c9.jpg,250
+YObykes,Yo Edge DX,Electric,62,000,https://cdn.bikedekho.com/processedimages/yobykes/edge-dx/source/edge-dx66cef1c4251ef.jpg,250
+YObykes,Yo Trust Drift HX,Electric,1.50 Lakh,https://cdn.bikedekho.com/processedimages/yobykes/trust-drift-hx/source/trust-drift-hx664d5a55ca658.jpg,2500
+YUKIE,YUKIE Yuvee,Electric,44,385,https://cdn.bikedekho.com/processedimages/yukie/yuvee/640X309/v_yuvee-std1566305358.jpg,250
+YUKIE,YUKIE Shiga,Electric,51,115,https://cdn.bikedekho.com/processedimages/yukie/shiga/640X309/v_shiga-std1566305425.jpg,250
+Yakuza Electric,Yakuza Rubie,Electric,35,280 - 44,800,https://cdn.bikedekho.com/processedimages/yakuza-electric/rubie/source/rubie68905fc6680e7.jpg,250
+Yakuza Electric,Yakuza Neu,Electric,36,960 - 46,480,https://cdn.bikedekho.com/processedimages/yakuza-electric/neu/source/neu6895f1f922954.jpg,250
+Yakuza Electric,Yakuza Viraj,Electric,38,420 - 41,245,https://cdn.bikedekho.com/processedimages/yakuza-electric/viraj/source/viraj689c87b959832.jpg,250
+Yakuza Electric,Yakuza Unique,Electric,63,000,https://cdn.bikedekho.com/processedimages/yakuza-electric/unique/source/unique689dab593e117.jpg,250
+Yakuza Electric,Yakuza Sparrow Pro,Electric,53,400 - 60,600,https://cdn.bikedekho.com/processedimages/yakuza-electric/sparrow-pro/source/sparrow-pro689d914b477f5.jpg,250
+Yakuza Electric,Yakuza Sophie,Electric,57,000 - 60,000,https://cdn.bikedekho.com/processedimages/yakuza-electric/sophie/source/sophie689b31fced91d.jpg,250
+Yakuza Electric,Yakuza Aqaba,Electric,54,600 - 61,800,https://cdn.bikedekho.com/processedimages/yakuza-electric/aqaba/source/aqaba6890695645c72.jpg,250
+Yakuza Electric,Yakuza Cyclone Sway,Electric,54,000 - 57,000,https://cdn.bikedekho.com/processedimages/yakuza-electric/cyclone-sway/source/cyclone-sway68934ddd0c6c9.jpg,250
+Yakuza Electric,Yakuza Amber,Electric,43,505 - 46,330,https://cdn.bikedekho.com/processedimages/yakuza-electric/amber/source/amber68908d1b4a542.jpg,250
+Yakuza Electric,Yakuza Utility Pro,Electric,46,980 - 49,880,https://cdn.bikedekho.com/processedimages/yakuza-electric/utility-pro/source/utility-pro689d736f248ce.jpg,250
+Yakuza Electric,Yakuza Nebula,Electric,55,800 - 58,800,https://cdn.bikedekho.com/processedimages/yakuza-electric/nebula/source/nebula6894a1370c198.jpg,250
+Yakuza Electric,Yakuza Parinda,Electric,58,800 - 61,800,https://cdn.bikedekho.com/processedimages/yakuza-electric/parinda/source/parinda6895fa3f9eb91.jpg,250
+Yakuza Electric,Yakuza Sparrow,Electric,52,200 - 59,400,https://cdn.bikedekho.com/processedimages/yakuza-electric/sparrow/source/sparrow689c5bce21d81.jpg,250
+Zelio,Zelio Eeva,Electric,50,000 - 69,000,https://cdn.bikedekho.com/processedimages/zelio/eeva/source/eeva6877aaf560ea4.jpg,0
+Zelio,Zelio X Men 2.0,Electric,69,499 - 91,500,https://cdn.bikedekho.com/processedimages/zelio/x-men/source/x-men67333b568df06.jpg,0
+Zelio,Zelio Gracy i,Electric,54,000 - 66,000,https://cdn.bikedekho.com/processedimages/zelio/gracy-i/source/gracy-i68bff41428b58.jpg,0
+Zelio,Zelio Gracy Pro,Electric,79,999,https://cdn.bikedekho.com/processedimages/zelio/gracy-pro/source/gracy-pro6656faa58ac59.jpg,0
+Zelio,Zelio Eeva Eco ,Electric,49,500 - 68,000,https://cdn.bikedekho.com/processedimages/zelio/eeva-eco/source/eeva-eco67dab71ca8bc3.jpg,0
+Zelio,Zelio Legender Plus,Electric,60,073 - 83,073,https://cdn.bikedekho.com/processedimages/zelio/legender-plus/source/legender-plus67dba73ca567a.jpg,0
+Zelio,Zelio Legender,Electric,65,000 - 79,000,https://cdn.bikedekho.com/processedimages/zelio/legender-2023-2025/source/legender-2023-2025685123934232a.jpg,250
+Zelio,Zelio Little Gracy,Electric,49,500 - 58,000,https://cdn.bikedekho.com/processedimages/zelio/little-gracy/source/little-gracy67d1549879347.jpg,0
+Zelio,Zelio Eeva ZX+,Electric,70,000 - 90,500,https://cdn.bikedekho.com/processedimages/zelio/eeva-zx-plus/source/eeva-zx-plus67dbb413906d8.jpg,250
+Zelio,Zelio Gracy+,Electric,54,000 - 69,500,https://cdn.bikedekho.com/processedimages/zelio/gracy-plus/source/gracy-plus687f715f111aa.jpg,0
+Zelio,Zelio Mystery,Electric,70,000,https://cdn.bikedekho.com/processedimages/zelio/mystery/source/mystery66f5164775555.jpg,0
+Zelio,Zelio Legender Plus Premium,Electric,62,500 - 85,500,https://cdn.bikedekho.com/processedimages/zelio/legender-plus-premium/source/legender-plus-premium67e2281ed1b38.jpg,0
+Zelio,Zelio Logix,Electric,64,573 - 71,573,https://cdn.bikedekho.com/processedimages/zelio/logix/source/logix67e285a9eef43.jpg,1500
+Zelo,Zelo Knight Plus,Electric,59,990,https://cdn.bikedekho.com/processedimages/zelo/knight-plus/source/knight-plus6895b9eb3024c.jpg,1500
+Zelo,Zelo Zoop,Electric,45,900 - 86,900,https://cdn.bikedekho.com/processedimages/zelo/zoop/source/zoop66629fd463cf8.jpg,0
+Zelo,Zelo Zaeden,Electric,52,900 - 94,900,https://cdn.bikedekho.com/processedimages/zelo/zaeden/source/zaeden66629cccb7eda.jpg,0
+Zelo,Zelo Knight,Electric,49,900 - 91,900,https://cdn.bikedekho.com/processedimages/zelo/knight/source/knight66629ddc9c391.jpg,0
+Zelo,Zelo Zaeden+,Electric,88,900,https://cdn.bikedekho.com/processedimages/zelo/zaeden-plus/source/zaeden-plus66629a8e7cd43.jpg,2500
+e-Sprinto,e-Sprinto LS,Electric,76,000 - 82,000,https://cdn.bikedekho.com/processedimages/e-sprinto/e-sprinto/640X309/e-sprinto6458e055a72b5.png,250
+e-Sprinto,e-Sprinto Roamy,Electric,54,999,https://cdn.bikedekho.com/processedimages/e-sprinto-electric/roamy/source/roamy655c69473ba2f.jpg,250
+e-Sprinto,Sprinto HS,Electric,86,000 - 97,000,https://cdn.bikedekho.com/processedimages/e-sprinto/sprinto/640X309/sprinto6458e096beba9.png,800
+e-Sprinto,e-Sprinto Rapo,Electric,62,999,https://cdn.bikedekho.com/processedimages/e-sprinto-electric/rapo/source/rapo655c6973c6251.jpg,250
+eblu,eblu Feo,Electric,99,999,https://cdn.bikedekho.com/processedimages/eblu/feo/source/feo663ef20e7e260.jpg,2600
+iScoot,iScoot 1,Electric,1.07 - 1.17 Lakh,https://cdn.bikedekho.com/processedimages/iscoot/scoot-1/source/scoot-165c1c3be999af.jpg,1500
+iVOOMi,iVOOMi S1,Electric,54,999 - 84,999,https://cdn.bikedekho.com/processedimages/ivoomi/s1/640X309/s162e12ff48ca71.jpg,1800
+iVOOMi,iVOOMi Jeet X,Electric,84,999 - 1.05 Lakh,https://cdn.bikedekho.com/processedimages/ivoomi/jeet/source/jeet66cea65858a63.jpg,2100

@@ -13,30 +13,31 @@ import org.json.JSONObject;
 import service.BDConnect;
 import service.BDEnum;
 
-public class BikeDekhoData {
+public class VehicleData {
 	
 	//Fields
 	
-	private final Logger logger = Logger.getLogger(BikeDekhoData.class.getName());	// for Log purpose
+	private final Logger logger = Logger.getLogger(VehicleData.class.getName());	// for Log purpose
 		
-	private String webUrl = BDEnum.BIKE_DEKHO_BEST_BIKE_URL.getValue();
+	private String webUrl;
 	private BDConnect connect;
 	
 	
 	//Constructor
 	
-	public BikeDekhoData() {
+	public VehicleData(String webUrl) {
 		this.connect = new BDConnect();
+		this.webUrl = webUrl;
 	}
 	
 	
 	//Methods
 	
-	public void getBikeData(String readBikesBrandApiEndPointFilePath, String writeBikesData) throws IOException 
+	public void getData(String readBrandApiEndPointFilePath, String writeDataFilePath) throws IOException 
 	{
 		try(
-				BufferedReader reader = new BufferedReader(new FileReader(readBikesBrandApiEndPointFilePath));
-				BufferedWriter writer = new BufferedWriter(new FileWriter(writeBikesData))
+				BufferedReader reader = new BufferedReader(new FileReader(readBrandApiEndPointFilePath));
+				BufferedWriter writer = new BufferedWriter(new FileWriter(writeDataFilePath))
 			)
 		{
 			writer.write("Brand,Model,Type,Price_Range,Image_Url,cc_value\n");
