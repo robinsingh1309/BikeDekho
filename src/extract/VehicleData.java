@@ -11,7 +11,6 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import service.BDConnect;
-import service.BDEnum;
 
 public class VehicleData {
 	
@@ -49,7 +48,7 @@ public class VehicleData {
 				String apiUrl = String.format(webUrl, line.split("/")[1]);
 				logger.info("Fetching URL: " + apiUrl);
 				
-				String jsonResponse = connect.getJsonResponseOfBikeDekho(apiUrl);
+				String jsonResponse = connect.getJsonResponse(apiUrl);
 				if (jsonResponse == null) {
 					logger.warning("NO JSON Response received from the server: " + jsonResponse);
 					continue;
