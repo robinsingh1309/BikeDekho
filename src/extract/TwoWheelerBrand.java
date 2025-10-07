@@ -9,19 +9,28 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import service.BDEnum;
-
-public class BikeBrands {
-
-	// file path to store the end points of bike brands urls
-	private final String filePath = "/home/robin/eclipse-workspace/BikeDekho/src/csv/bikeBrandsUrl.csv";
+public class TwoWheelerBrand {
 	
-	private final String brandUrl = BDEnum.BIKE_DEKHO_BIKE_BRAND_URL.getValue();
+	// Fields
+	private String filePath;
+	private String url;
+
+
+	// Constructors
 	
-	public void getBikeBrand() throws IOException 
+	public TwoWheelerBrand(String filePath, String url) {
+		
+		this.filePath = filePath;
+		this.url = url;
+	}
+
+
+	// Methods
+	
+	public void getBrands() throws IOException 
 	{
 		
-		Document document = Jsoup.connect(brandUrl)
+		Document document = Jsoup.connect(url)
 								.timeout(10000)
 								.get();
 		
@@ -33,11 +42,12 @@ public class BikeBrands {
 			{	
 				String urlName = ele.getElementsByTag("a").attr("href");
 				
-				writer.write(urlName+"\n");	// write it to the file
+				writer.write(urlName+"\n");
 			}	
 			
 		} catch (Exception e) {
 			System.out.println("Error in writing it in file.");
 		}
 	}
+	
 }

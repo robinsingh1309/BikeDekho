@@ -15,27 +15,28 @@ import service.BDEnum;
 
 public class BikeDekhoData {
 	
-	// for log info
-	private final Logger logger = Logger.getLogger(BikeDekhoData.class.getName());
+	//Fields
 	
-	//file path to read the end points of bike brand to extract the data and pass the info to the webUrl
-	private final String bikeBrandsFilePath = "/home/robin/eclipse-workspace/BikeDekho/src/csv/bikeBrandsUrl.csv";
-	
-	//file path to store the data of bikes
-	private final String bikesDataFilePath = "/home/robin/eclipse-workspace/BikeDekho/src/csv/bikesData.csv";
+	private final Logger logger = Logger.getLogger(BikeDekhoData.class.getName());	// for Log purpose
 		
 	private String webUrl = BDEnum.BIKE_DEKHO_BEST_BIKE_URL.getValue();
 	private BDConnect connect;
+	
+	
+	//Constructor
 	
 	public BikeDekhoData() {
 		this.connect = new BDConnect();
 	}
 	
-	public void getBikeData() throws IOException 
+	
+	//Methods
+	
+	public void getBikeData(String readBikesBrandApiEndPointFilePath, String writeBikesData) throws IOException 
 	{
 		try(
-				BufferedReader reader = new BufferedReader(new FileReader(bikeBrandsFilePath));
-				BufferedWriter writer = new BufferedWriter(new FileWriter(bikesDataFilePath))
+				BufferedReader reader = new BufferedReader(new FileReader(readBikesBrandApiEndPointFilePath));
+				BufferedWriter writer = new BufferedWriter(new FileWriter(writeBikesData))
 			)
 		{
 			writer.write("Brand,Model,Type,Price_Range,Image_Url,cc_value\n");
