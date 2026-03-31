@@ -37,8 +37,8 @@ public class UpcomingVehicleData {
 				BufferedWriter writer = new BufferedWriter(new FileWriter(writeUpcomingDataFilePath))
 			)
 		{
-			writer.write("Brand,Model,Type,Price_Range,Image_Url,cc_value\n");
-			
+            writer.write("Brand,Model,Type,Price_Range,Image_Url,cc_value");
+            writer.newLine();
 			
 			// Logic for Pagination
 			int currentPage = 1;
@@ -94,7 +94,17 @@ public class UpcomingVehicleData {
 					String variant_image = itemsCurrentObject.optString("image", "Image is yet to be revealed");
 					String engine_cc_value = itemsCurrentObject.optString("engine", "CC details yet to be revealed");
 					
-					writer.write(variant_brand_name + "," + variant_model_name + "," + variant_fuel_type + "," + variant_price_range + "," + variant_image + "," + engine_cc_value + "\n");
+                    // Escape all CSV fields
+                    String cleanedBrand = escapeCsvField(variant_brand_name);
+                    String cleanedModel = escapeCsvField(variant_model_name);
+                    String cleanedType = escapeCsvField(variant_fuel_type);
+                    String cleanedPrice = escapeCsvField(variant_price_range);
+                    String cleanedImage = escapeCsvField(variant_image);
+                    String cleanedCc = escapeCsvField(engine_cc_value);
+
+                    writer.write(String.join(",", cleanedBrand, cleanedModel, cleanedType, cleanedPrice, cleanedImage, cleanedCc));
+                    writer.newLine();
+				
 				}
 				
 				currentPage++;
@@ -106,5 +116,20 @@ public class UpcomingVehicleData {
 			logger.severe("Failed to parse JSON response: " + e.getMessage());
 		}
 	}
+	
+	// Utility: Escapes CSV fields safely
+    private String escapeCsvField(String field) {
+        if (field == null) return "\"\"";
+
+        boolean needsQuotes =
+                field.contains(",") || field.contains("\"") || field.contains("\n") || field.contains("\r");
+
+        if (needsQuotes) {
+            String escaped = field.replace("\"", "\"\"");
+            return "\"" + escaped + "\"";
+        } else {
+            return field;
+        }
+    }
 
 }

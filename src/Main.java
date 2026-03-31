@@ -25,9 +25,9 @@ public class Main {
 		
 		// for Bikes
 		final String bikesBrandApiEndPoint = "/home/robin/eclipse-workspace/BikeDekho/src/csv/bikesBrandAPIEndpoint.csv";
-		final String bikessBrandURL = BDEnum.BIKE_DEKHO_BIKE_BRAND_URL.getValue();
+		final String bikesBrandURL = BDEnum.BIKE_DEKHO_BIKE_BRAND_URL.getValue();
 
-		final TwoWheelerBrand twBikeBrand = new ScooterBrand(bikesBrandApiEndPoint, bikessBrandURL);
+		final TwoWheelerBrand twBikeBrand = new ScooterBrand(bikesBrandApiEndPoint, bikesBrandURL);
 		twBikeBrand.getBrands();
 		
 
